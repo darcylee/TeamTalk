@@ -1,4 +1,6 @@
 # TeamTalk
+
+[![Join the chat at https://gitter.im/darcylee/TeamTalk](https://badges.gitter.im/darcylee/TeamTalk.svg)](https://gitter.im/darcylee/TeamTalk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 	TeamTalk is a solution for enterprise IM
 	
 	具体文档见doc目录下,安装之前请仔细阅读相关文档。
